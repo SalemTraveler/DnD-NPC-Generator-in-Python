@@ -181,5 +181,5 @@ print(f"\nName: {firstname} {lastname}")
 print(f"\nTraits\nPositive: {ptrait}, Negative: {ntrait}")
 print(f"\nNegotiation\nMotivation: {motivation}, Pitfall: {pitfall}")
 
-time.sleep(10)#add loop and ability to manually end the program
+time.sleep(10)#add loop ability
 
